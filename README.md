@@ -121,7 +121,6 @@ Or register a new account using the Sign Up page.
 ##  Submission Checklist
 
 - [x] GitHub repository
-- [x] Live deployed link (Netlify)
 - [x] Project report (this README)
 - [x] All features functional
 - [x] Responsive design
