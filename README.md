@@ -1,10 +1,10 @@
-# 🏥 MediCare+ — Healthcare Appointment System
+#  MediCare+ — Healthcare Appointment System
 
 A full-featured, production-ready healthcare appointment booking UI built with **React + Vite**, following the capstone project specifications.
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 | Layer | Technology |
 |---|---|
@@ -19,7 +19,7 @@ A full-featured, production-ready healthcare appointment booking UI built with *
 
 ---
 
-## ✅ Features Implemented
+##  Features Implemented
 
 ### Core (per SOP)
 - ✅ Doctor listing with search, filter by specialty, sort by rating/fee/experience
@@ -54,7 +54,7 @@ A full-featured, production-ready healthcare appointment booking UI built with *
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 src/
@@ -89,7 +89,7 @@ src/
 
 ---
 
-## 🔧 Setup & Run
+##  Setup & Run
 
 ```bash
 # Install dependencies
@@ -107,7 +107,7 @@ npm run preview
 
 ---
 
-## 🔐 Demo Login
+##  Demo Login
 
 ```
 Email:    demo@medicare.com
@@ -118,7 +118,7 @@ Or register a new account using the Sign Up page.
 
 ---
 
-## 📋 Submission Checklist
+##  Submission Checklist
 
 - [x] GitHub repository
 - [x] Live deployed link (Netlify)
