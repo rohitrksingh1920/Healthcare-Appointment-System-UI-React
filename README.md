@@ -107,18 +107,6 @@ npm run preview
 
 ---
 
-## 🌐 Deploying to Netlify
-
-1. Push this project to a GitHub repository
-2. Go to [netlify.com](https://netlify.com) → "Add new site" → "Import from Git"
-3. Connect your GitHub repo
-4. Build settings are auto-detected from `netlify.toml`:
-   - **Build command:** `npm run build`
-   - **Publish directory:** `dist`
-5. Click **Deploy** — done! SPA redirects are handled automatically.
-
----
-
 ## 🔐 Demo Login
 
 ```
